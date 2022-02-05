@@ -4,9 +4,16 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="submit">Add student details</string>
+    <string name="previous">Add more data</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_department">Enter Department</string>
+    <string name="added">Data Successfully added!</string>
 </resources>
